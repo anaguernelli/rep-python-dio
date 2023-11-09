@@ -7,3 +7,4 @@ print(nome[3:7])    # Byu
 print(nome[3:7:2])  # y
 print(nome[:])      # Kim Byun He
 print(nome[::-1])   # eH nuyB miK
+print(nome[0::])
