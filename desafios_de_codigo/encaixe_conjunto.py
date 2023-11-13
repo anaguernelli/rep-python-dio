@@ -13,7 +13,7 @@ while (n > 0):
 
     final = a[len_a - len_b::]
 
-    if(final == b):
+    if (final == b):
         print("encaixa")
     else:
         print("nao encaixa")
